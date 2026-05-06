@@ -1,0 +1,20 @@
+# Build folders and IDE files
+node_modules/
+dist/
+.env
+.DS_Store
+
+# Maven/Spring Boot
+target/
+*.jar
+*.war
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
